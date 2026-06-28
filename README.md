@@ -1,20 +1,161 @@
 <h1 align="center">Hi 👋, I'm Akanksha Mothukuri</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-akanksha49&label=Profile%20views&color=0e75b6&style=flat" alt="m-akanksha49" /> </p>
+<h3 align="center">
+🚀 Full Stack Developer | AI Enthusiast | Software Engineer | National Hackathon Winner 🏆
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-akanksha49" alt="m-akanksha49" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://akanksha-showcase-creator.lovable.app/](https://akanksha-showcase-creator.lovable.app/)
-
-- 📫 How to reach me **akankshamothukuri49@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akanksha-mothukuri49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akanksha-mothukuri49" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akankshamothukuri_49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akankshamothukuri_49" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/akankshamothukuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akankshamothukuri" height="30" width="40" /></a>
+<p align="center">
+Building scalable web applications, AI-powered solutions, and impactful software that solves real-world problems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=m-akanksha49&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/m-akanksha49?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/m-akanksha49?affiliations=OWNER&style=for-the-badge"/>
+</p>
+
+---
+
+# 👩‍💻 About Me
+
+🎓 B.Tech Information Technology Student
+
+🏆 National Level Hackathon Winner
+
+💡 Passionate about solving real-world problems through technology.
+
+🤖 Interested in AI, Full Stack Development, Android Development & Cloud.
+
+🌱 Currently learning System Design, DevOps and Advanced Backend Development.
+
+💼 Looking for Software Development Engineer Intern opportunities.
+
+⚡ Love building products that create real impact.
+
+---
+
+# 🚀 Featured Projects
+
+### 🌍 Disaster Mitigation Platform
+An AI-powered disaster preparedness platform with role-based dashboards, adaptive quizzes, emergency SOS alerts, live incident tracking, and disaster awareness modules.
+
+### 🇮🇳 Freedom Fighters of India
+A comprehensive digital heritage platform featuring timelines, biographies, interactive quizzes, event calendar, state-wise freedom fighters, and AI chatbot.
+
+### 🎥 AI Movie Recommendation Platform
+A modern movie discovery application with authentication, recommendations, responsive UI, and dynamic filtering.
+
+### 📱 Women Safety Smart Shoe
+IoT-enabled wearable system integrating GPS tracking, GSM alerts, and health monitoring for women's safety.
+
+---
+
+# 🏆 Achievements
+
+🥇 National Level Hackathon Winner
+
+🥇 State Level Letter Writing Competition Winner
+
+🎯 Built multiple Full Stack & AI Projects
+
+💻 Solved 500+ Coding Problems
+
+🚀 Passionate Open Source Contributor
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,kotlin,html,css"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git"/>
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=m-akanksha49&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-akanksha49&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=m-akanksha49&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-akanksha49&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/akanksha-mothukuri49">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:akankshamothukuri49@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://leetcode.com/akankshamothukuri_49">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/akankshamothukuri">
+<img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+</p>
+
+---
+
+# 🌟 Portfolio
+
+### 🚀 Live Portfolio
+
+https://akanksha-showcase-creator.lovable.app/
+
+---
+
+# 💬 Quote
+
+> **"Code with purpose. Build with passion. Learn without limits."**
+
+<p align="center">
+⭐ If you like my work, consider starring my repositories!
+</p>
