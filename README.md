@@ -133,8 +133,7 @@ achievement: 🏆 National Level Hackathon Winner — VNRVJIET (Top 3 of 100+ te
         <li>Enterprise-grade exception handling with retry logic & audit trails</li>
         <li>Extensible to complex multi-step enterprise workflows</li>
       </ul>
-     
-    </td>
+  
   </tr>
 </table>
 
