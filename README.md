@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech%20IT-MVSR%20Engineering%20College-6C3483?style=for-the-badge&labelColor=2d2d2d"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/CGPA-9.12%20%2F%2010-8E44AD?style=for-the-badge&labelColor=2d2d2d"/>
+  <img src="https://img.shields.io/badge/CGPA-9.15%20%2F%2010-8E44AD?style=for-the-badge&labelColor=2d2d2d"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Status-Open%20to%20SDE%20Roles-27AE60?style=for-the-badge&labelColor=2d2d2d"/>
 </p>
