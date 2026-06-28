@@ -133,9 +133,7 @@ achievement: 🏆 National Level Hackathon Winner — VNRVJIET (Top 3 of 100+ te
         <li>Enterprise-grade exception handling with retry logic & audit trails</li>
         <li>Extensible to complex multi-step enterprise workflows</li>
       </ul>
-      <p>
-        <img src="https://img.shields.io/badge/RPA%20Automation-No%20Web%20Deploy-7F8C8D?style=for-the-badge&logoColor=white"/>
-      </p>
+     
     </td>
   </tr>
 </table>
