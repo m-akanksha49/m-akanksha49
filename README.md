@@ -75,7 +75,7 @@ achievement: 🏆 National Level Hackathon Winner — VNRVJIET (Top 3 of 100+ te
         <li>Cloud-hosted deployment with disaster drill scheduling</li>
       </ul>
       <p>
-        <a href="https://disasterreadyy.netlify.app/login">
+        <a href="https://disasterreadyy.netlify.app/">
           <img src="https://img.shields.io/badge/🌐%20Live%20Demo-27AE60?style=for-the-badge&logoColor=white"/>
         </a>
         &nbsp;
