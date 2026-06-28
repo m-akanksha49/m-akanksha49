@@ -1,23 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C3483,8E44AD,A569BD&height=200&section=header&text=Akanksha%20Mothukuri&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=16&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C3483,8E44AD,A569BD&height=120&section=header"/>
 
-<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=1000&color=8E44AD&center=true&vCenter=true&width=600&height=70&lines=Hi+there%2C+I'm+Akanksha+%F0%9F%91%8B;Full+Stack+Developer;AI+%26+ML+Enthusiast;National+Hackathon+Winner+%F0%9F%8F%86;Problem+Solver+%7C+Builder" alt="Typing SVG"/>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech%20IT-MVSR%20Engineering%20College-6C3483?style=for-the-badge&labelColor=2d2d2d"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CGPA-9.12%20%2F%2010-8E44AD?style=for-the-badge&labelColor=2d2d2d"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20SDE%20Roles-27AE60?style=for-the-badge&labelColor=2d2d2d"/>
+</p>
+
+<br/>
+
+<p align="center">
   <a href="https://linkedin.com/in/akanksha-mothukuri49">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:akankshamothukuri49@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://akanksha-showcase-creator.lovable.app/">
     <img src="https://img.shields.io/badge/Portfolio-6C3483?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://leetcode.com/akankshamothukuri_49">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
+  &nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/akankshamothukuri">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=m-akanksha49&color=6C3483&style=flat-square&label=Profile+Views"/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=m-akanksha49&color=8E44AD&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -51,9 +74,15 @@ achievement: 🏆 National Level Hackathon Winner — VNRVJIET (Top 3 of 100+ te
         <li>AI-generated adaptive quizzes and student safety awareness modules</li>
         <li>Cloud-hosted deployment with disaster drill scheduling</li>
       </ul>
-      <a href="#">
-        <img src="https://img.shields.io/badge/View_Project-6C3483?style=flat-square&logo=github&logoColor=white"/>
-      </a>
+      <p>
+        <a href="https://disasterreadyy.netlify.app/login">
+          <img src="https://img.shields.io/badge/🌐%20Live%20Demo-27AE60?style=for-the-badge&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/m-akanksha49/DisasterReady">
+          <img src="https://img.shields.io/badge/GitHub%20Repo-6C3483?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>🏥 VitalAI</h3>
@@ -64,9 +93,15 @@ achievement: 🏆 National Level Hackathon Winner — VNRVJIET (Top 3 of 100+ te
         <li>REST APIs in FastAPI delivering real-time risk analysis results</li>
         <li>Context-aware preventive recommendations per patient profile</li>
       </ul>
-      <a href="#">
-        <img src="https://img.shields.io/badge/View_Project-6C3483?style=flat-square&logo=github&logoColor=white"/>
-      </a>
+      <p>
+        <a href="https://resilient-macaron-6981e6.netlify.app/">
+          <img src="https://img.shields.io/badge/🌐%20Live%20Demo-27AE60?style=for-the-badge&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/m-akanksha49/healthcare">
+          <img src="https://img.shields.io/badge/GitHub%20Repo-6C3483?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
     </td>
   </tr>
   <tr>
@@ -79,9 +114,15 @@ achievement: 🏆 National Level Hackathon Winner — VNRVJIET (Top 3 of 100+ te
         <li>Randomized quiz engine with progress tracking</li>
         <li>Power BI dashboard for state-level analytics</li>
       </ul>
-      <a href="#">
-        <img src="https://img.shields.io/badge/View_Project-6C3483?style=flat-square&logo=github&logoColor=white"/>
-      </a>
+      <p>
+        <a href="https://freedomfighters-india.netlify.app/">
+          <img src="https://img.shields.io/badge/🌐%20Live%20Demo-27AE60?style=for-the-badge&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/m-akanksha49/india-heritage-freedomfighters">
+          <img src="https://img.shields.io/badge/GitHub%20Repo-6C3483?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
       <h3>📦 OrderFlowRPA</h3>
@@ -92,9 +133,9 @@ achievement: 🏆 National Level Hackathon Winner — VNRVJIET (Top 3 of 100+ te
         <li>Enterprise-grade exception handling with retry logic & audit trails</li>
         <li>Extensible to complex multi-step enterprise workflows</li>
       </ul>
-      <a href="#">
-        <img src="https://img.shields.io/badge/View_Project-6C3483?style=flat-square&logo=github&logoColor=white"/>
-      </a>
+      <p>
+        <img src="https://img.shields.io/badge/RPA%20Automation-No%20Web%20Deploy-7F8C8D?style=for-the-badge&logoColor=white"/>
+      </p>
     </td>
   </tr>
 </table>
@@ -184,7 +225,7 @@ achievement: 🏆 National Level Hackathon Winner — VNRVJIET (Top 3 of 100+ te
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C3483,8E44AD,A569BD&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C3483,8E44AD,A569BD&height=120&section=footer"/>
 
 *"Code with purpose. Build with passion. Learn without limits."*
 
