@@ -24,29 +24,16 @@ Building scalable web applications, AI-powered solutions, and impactful software
 
 💡 Passionate about solving real-world problems through technology.
 
-🤖 Interested in AI, Full Stack Development, Android Development & Cloud.
+🤖 Interested in AI, Full Stack Development, Android Development.
 
 🌱 Currently learning System Design, DevOps and Advanced Backend Development.
 
-💼 Looking for Software Development Engineer Intern opportunities.
+💼 Looking for Software Development Engineering opportunities.
 
 ⚡ Love building products that create real impact.
 
 ---
 
-# 🚀 Featured Projects
-
-### 🌍 Disaster Mitigation Platform
-An AI-powered disaster preparedness platform with role-based dashboards, adaptive quizzes, emergency SOS alerts, live incident tracking, and disaster awareness modules.
-
-### 🇮🇳 Freedom Fighters of India
-A comprehensive digital heritage platform featuring timelines, biographies, interactive quizzes, event calendar, state-wise freedom fighters, and AI chatbot.
-
-### 🎥 AI Movie Recommendation Platform
-A modern movie discovery application with authentication, recommendations, responsive UI, and dynamic filtering.
-
-### 📱 Women Safety Smart Shoe
-IoT-enabled wearable system integrating GPS tracking, GSM alerts, and health monitoring for women's safety.
 
 ---
 
@@ -58,9 +45,6 @@ IoT-enabled wearable system integrating GPS tracking, GSM alerts, and health mon
 
 🎯 Built multiple Full Stack & AI Projects
 
-💻 Solved 500+ Coding Problems
-
-🚀 Passionate Open Source Contributor
 
 ---
 
